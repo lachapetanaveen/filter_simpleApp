@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Hyderabad"
+    },
+    {
+        "id": "2",
+        "name": "Warangal"
+    },
+    {
+        "id": "3",
+        "name": "Siddipet"
+    },
+    {
+        "id": "4",
+        "name": "Dubbak"
+    },
+    {
+        "id": "5",
+        "name": "Nizamabad"
+    },
+    {
+      "id":"6",
+      "name":"Medak"
+    }
+]
